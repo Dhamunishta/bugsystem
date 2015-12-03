@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include bugsystem *.css
+recursive-include bugsystem *.csv
+recursive-include bugsystem *.html
+recursive-include bugsystem *.ico
+recursive-include bugsystem *.js
+recursive-include bugsystem *.json
+recursive-include bugsystem *.md
+recursive-include bugsystem *.png
+recursive-include bugsystem *.py
+recursive-include bugsystem *.svg
+recursive-include bugsystem *.txt
+recursive-exclude bugsystem *.pyc

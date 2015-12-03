@@ -1,0 +1,21 @@
+{
+ "content": null, 
+ "creation": "2015-07-24 15:30:27.374271", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "modified": "2015-07-24 15:30:56.175423", 
+ "modified_by": "Administrator", 
+ "module": "Bug Tracking System", 
+ "name": "project-wise-bugs", 
+ "owner": "Administrator", 
+ "page_name": "Project Wise Bugs", 
+ "roles": [
+  {
+   "role": "All"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Project Wise Bugs"
+}
